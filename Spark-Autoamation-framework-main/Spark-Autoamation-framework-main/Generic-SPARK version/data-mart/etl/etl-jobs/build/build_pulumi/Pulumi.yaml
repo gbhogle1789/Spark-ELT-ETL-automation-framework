@@ -1,3 +1,0 @@
-name: datalake
-runtime: python
-description: create datalake infra - s3 buckets, kms, iam policies and glue jobs
